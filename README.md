@@ -2,7 +2,7 @@ PROJECT NAME: to_do_tracker
 
 DESCRIPTION: A simple to-do list tracker
 
-Intended functionality is the following (in development):
+Intended functionality is the following:
 
 - Read a csv file for exisitng tasks
 - Write into the csv file to add new tasks
